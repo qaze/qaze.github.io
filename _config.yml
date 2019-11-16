@@ -1,0 +1,92 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Nikolai Rodionov
+# email: your-email@example.com
+subtitle: "iOS Developer"
+title_separator: "|"
+description: >- # this means to ignore newlines until "baseurl:"
+  Software Engineer. Mostly working with Apple ecosystem.
+  Writing about iOS Development and software development in general.
+  Swift, Objective-C and C++ are my daily friends. But I also use JavaScript and Python.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: n_rodionov
+github_username:  qaze
+
+read_time: true
+
+# Build settings
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+
+include: ["_pages"]
+
+defaults:
+# _posts
+- scope:
+    path: ""
+    type: posts
+  values:
+    layout: single
+    read_time: true
+    comments: true
+    share: true
+    related: true
+    author_profile: true
+
+- scope:
+    path: ""
+    type: pages
+  values:
+    layout: single
+    author_profile: true
+
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "nikrodionov"
+
+author:
+  avatar: "/assets/bio.jpeg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/n_rodionov"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/qaze"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://instagram.com/nrodionov"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+paginate: 10 # amount of posts to show
+paginate_path: /page:num/
