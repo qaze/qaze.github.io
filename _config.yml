@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Swift, Objective-C and C++ are my daily friends. But I also use JavaScript and Python.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nikrodionov.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: n_rodionov
 github_username:  qaze
 
@@ -34,6 +34,8 @@ markdown: kramdown
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-target-blank
 
 include: ["_pages"]
 
@@ -49,14 +51,13 @@ defaults:
     share: true
     related: true
     author_profile: true
-
+#pages
 - scope:
     path: ""
     type: pages
   values:
     layout: single
     author_profile: true
-
 
 comments:
   provider: "disqus"
@@ -74,19 +75,15 @@ author:
       url: "https://github.com/qaze"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://instagram.com/nrodionov"
+      url: "https://linkedin.com/in/nrodionov"
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+google_site_verification: "zCyM_sC56tj_Yk7dWjXpsJ-xXr2uYBaMM4G2UJzWAoE"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-128887723-3"
+    anonymize_ip: false # default
 
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/

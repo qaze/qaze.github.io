@@ -22,7 +22,7 @@ I have faced with a problem that small and very useful program rvictl become una
 
 rvictl ( Remote Virtual Interface Tool ) is a tool for capturing packets directly from your iOS Device. Let's imagine that you need to sniff traffic from your iOS Device. Obviously, you can use [Charles](https://www.charlesproxy.com), but what if you don't want to proxy traffic or your want to use more powerful [WireShark](https://www.wireshark.org). Then you need to use rvictl. You simply need to find your device UDID for example through Finder app.
 
-<figure class="wp-block-image"></figure>![ios device udid catalina]({{ site.baseurl }}/assets/image-3.png?fit=1024%2C282&ssl=1)</figure>
+![ios device udid catalina](/assets/image-3.png?fit=1024%2C282&ssl=1)
 
 And type something like the following in terminal:
 ```
