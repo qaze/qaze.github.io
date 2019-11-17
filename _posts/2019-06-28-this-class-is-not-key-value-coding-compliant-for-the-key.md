@@ -1,20 +1,13 @@
 ---
 <!-- layout: post -->
 title: 'iOS Common Issues #1: … this class is not key value coding-compliant for the key …'
+image: /assets/error_big.jpg
+description: "Every iOS developer definitely face with problem like: this class is not key value coding-compliant for the key. Here we will see how to resolve it."
+lang: en
 date: 2019-06-28 09:37:04.000000000 +03:00
 type: post
 categories:
-- iOS Development Posts
-tags:
-- crash
-- ios
-- swift
-- uiviewcontroller
-- xcode
-
-meta:
-  title: "How to fix: this class is not key value coding-compliant"
-  description: "Every iOS developer definitely face with problem like: this class is not key value coding-compliant for the key. Here we will see how to resolve it."
+- iOS Development
 
 permalink: "/this-class-is-not-key-value-coding-compliant-for-the-key/"
 

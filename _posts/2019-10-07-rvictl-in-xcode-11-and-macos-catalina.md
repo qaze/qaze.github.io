@@ -1,14 +1,13 @@
 ---
 <!-- layout: post -->
 title: rvictl in XCode 11 and MacOS Catalina
-date: 2019-10-07 09:08:14.000000000 +03:00
-type: post
-
-meta:
-  description: How to use rvictl on new MacOS Catalina and Xcode 11. This
+description: How to use rvictl on new MacOS Catalina and Xcode 11. This
     tutorial will also tell you how to sniff iOS traffic and find your iOS Device
     UDID.
-
+image: /assets/rvictl.jpg
+date: 2019-10-07 09:08:14.000000000 +03:00
+type: post
+lang: en
 
 header:
   overlay_image: /assets/rvictl.jpg

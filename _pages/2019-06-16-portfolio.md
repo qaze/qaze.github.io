@@ -1,12 +1,12 @@
 ---
-<!-- layout: page -->
 title: Portfolio
+description: Rodionov portfolio. Cookery. PoloTicker. iOS projects completed by Nik Rodionov.
+lang: en
 date: 2019-06-16 08:34:49.000000000 +03:00
 type: page
+
 layout: splash
 permalink: portfolio
-meta:
-  description: Rodionov portfolio. Cookery. PoloTicker. iOS projects completed by Nik Rodionov.
 
 feature_row:
 - image_path: /assets/ItunesArtwork@2x.png

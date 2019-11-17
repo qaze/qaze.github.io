@@ -36,6 +36,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-target-blank
+  - jekyll-seo-tag
 
 include: ["_pages"]
 

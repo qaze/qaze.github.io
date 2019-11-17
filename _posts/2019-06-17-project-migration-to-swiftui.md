@@ -1,25 +1,15 @@
 ---
 title: 'SwiftUI: Project migration from UIKit'
+image: /assets/migration.jpg
+description: Apple released SwiftUI framework. The great tech that will allow to create great UI/UX faster. How to migrate from old project with UIKit to new SwiftUI?
+lang: en    
 date: 2019-06-17 10:09:09.000000000 +03:00
 type: post
-published: true
-status: publish
-categories:
-- iOS Development Posts
-tags:
-- ios
-- migration
-- scene-delegate
-- swift
-- swift5
-- swiftui
-- xcode
 
-meta:
-- description: Apple released SwiftUI framework. The great tech that will allow to create great UI/UX faster. How to migrate from old project with UIKit to new SwiftUI?
+categories:
+- iOS Development
 
 classes: wide
-
 excerpt_separator: <!--more-->
 
 header:

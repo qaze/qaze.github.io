@@ -1,13 +1,11 @@
 ---
 <!-- layout: post -->
 title: iOS Developer Tools
+description: "I would like to introduce my development toolset. Here I've described apps that are helpful for my daily routine as iOS Developer."
+image: /assets/ios_development_tools.jpg
 date: 2019-11-10 16:21:37.000000000 +03:00
 type: post
 
-meta:
-  description: "I would like to introduce my development toolset. Here I've described apps that are helpful for my daily routine as iOS Developer."
-
-<!-- classes: wide -->
 permalink: "/ios-developer-tools/"
 
 header:
@@ -15,7 +13,6 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   show_overlay_excerpt: false
   teaser: /assets/ios_development_tools.jpg
-
 
 toc: true
 ---
