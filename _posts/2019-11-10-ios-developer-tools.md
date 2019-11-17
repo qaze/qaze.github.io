@@ -35,6 +35,10 @@ Article describes various tools I use during my daily working routine. I update 
 
 ### Design
 - [Sketch](https://www.sketch.com) - must have tool for creating and sometime watching designs. Widely used by designers.
-- [Zeplin](https://zeplin.io) - my favourite design storage and viewer. Has the best feature ever: https://cdn.zeplin.io/demo/popout.mp4 . Very useful during design checking.
+- [Zeplin](https://zeplin.io) - my favourite design storage and viewer. Has the best feature ever: 
+<video width="480" height="320" controls="controls">
+  <source src="https://cdn.zeplin.io/demo/popout.mp4" type="video/mp4">
+</video>
+Very useful during design checking.
 
 Thank you for reading. Please let me know your thoughts.

@@ -6,8 +6,8 @@ lang: en
 date: 2019-06-17 10:09:09.000000000 +03:00
 type: post
 
-categories:
-- iOS Development
+# categories:
+# - iOS Development
 
 classes: wide
 excerpt_separator: <!--more-->

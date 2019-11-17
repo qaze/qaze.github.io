@@ -6,8 +6,8 @@ description: "Every iOS developer definitely face with problem like: this class 
 lang: en
 date: 2019-06-28 09:37:04.000000000 +03:00
 type: post
-categories:
-- iOS Development
+# categories:
+# - iOS Development
 
 permalink: "/this-class-is-not-key-value-coding-compliant-for-the-key/"
 
