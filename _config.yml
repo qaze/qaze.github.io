@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Nikolai Rodionov
+title: Nikolay Rodionov
 # email: your-email@example.com
 subtitle: "iOS Developer"
 title_separator: "|"
@@ -170,6 +170,8 @@ author:
       url: "https://linkedin.com/in/nrodionov"
 
 google_site_verification: "zCyM_sC56tj_Yk7dWjXpsJ-xXr2uYBaMM4G2UJzWAoE"
+yandex_site_verification: "0e61d2c23f27ada9"
+bing_site_verification: "4B30F8C184B4B6556C5B2BB0F0B87622"
 
 analytics:
   provider: "google-gtag"

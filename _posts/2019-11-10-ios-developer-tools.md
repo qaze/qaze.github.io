@@ -1,7 +1,7 @@
 ---
 <!-- layout: post -->
 title: iOS Developer Tools
-description: "I would like to introduce my development toolset. Here I've described apps that are helpful for my daily routine as iOS Developer."
+description: "iOS Development tools. My Development toolset used daily for iOS Development"
 image: /assets/ios_development_tools.jpg
 date: 2019-11-10 16:21:37.000000000 +03:00
 type: post
@@ -42,3 +42,5 @@ Article describes various tools I use during my daily working routine. I update 
 Very useful during design checking.
 
 Thank you for reading. Please let me know your thoughts.
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us5.list-manage.com","uuid":"0cf820f77cd8b01834a217372","lid":"94d28941f1","uniqueMethods":true}) })</script>

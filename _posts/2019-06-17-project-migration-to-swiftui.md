@@ -179,3 +179,6 @@ Launch the app and you should see MainView as first screen launched.
 _P.S. I have faced with problem that the solution didn’t worked and resolved it through cleaning derived data of Xcode and completely removing old app from device at first_
 
 _Thanks for reading!_
+
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us5.list-manage.com","uuid":"0cf820f77cd8b01834a217372","lid":"94d28941f1","uniqueMethods":true}) })</script>

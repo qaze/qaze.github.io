@@ -98,3 +98,5 @@ To resolve "class is not key value coding-compliant for the key" issue you just 
 _Also please make sure that you have done full clean + rebuild after resolving such issues. Xcode is not perfect IDE and it still has a huge issue that can be resolved simply by clean ( Shift + CMD + K ) and build ( CMD + B )_
 
 _Thanks for reading!_
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us5.list-manage.com","uuid":"0cf820f77cd8b01834a217372","lid":"94d28941f1","uniqueMethods":true}) })</script>

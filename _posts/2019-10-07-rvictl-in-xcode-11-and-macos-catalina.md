@@ -50,3 +50,5 @@ sudo /Library/Apple/usr/bin/rvictl -s [DEVICE UDID]
 After that you can open WireShark and you'll see rvi0 interface that can be captured.
 
 Hope you enjoyed this tutorial. Please let me know your thoughts.
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us5.list-manage.com","uuid":"0cf820f77cd8b01834a217372","lid":"94d28941f1","uniqueMethods":true}) })</script>
