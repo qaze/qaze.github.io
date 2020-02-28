@@ -18,6 +18,7 @@ gem "jekyll-paginate"
 gem "jekyll-gist"
 gem "jekyll-feed"
 gem "jekyll-include-cache"
+gem "amp-jekyll"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

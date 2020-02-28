@@ -130,6 +130,9 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-include-cache
+  - amp-jekyll
+
+ampdir: "amp"
 
 defaults:
 # _posts
@@ -158,16 +161,15 @@ comments:
 
 author:
   avatar: "/assets/bio.jpeg"
+  stackoverflow: 2020920
+  linkedin: nrodionov
+  github: qaze
+  twitter: n_rodionov
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/n_rodionov"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/qaze"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/nrodionov"
+    - label: "Hire Me (Fiverr)"
+      icon: "fas fa-fw fa-comments"
+      url: "https://www.fiverr.com/nikolayrodionov"
+
 
 google_site_verification: "zCyM_sC56tj_Yk7dWjXpsJ-xXr2uYBaMM4G2UJzWAoE"
 yandex_site_verification: "0e61d2c23f27ada9"
