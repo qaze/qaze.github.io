@@ -7,7 +7,7 @@ type: page
 
 layout: splash
 permalink: "/portfolio/"
-
+skip_amp: true
 feature_row:
 - image_path: /assets/app-icon-iTunesArtwork.png
   alt: "Pomodoro Time management"
