@@ -14,7 +14,7 @@ header:
 
 permalink: "/loopers-pomodoro-timer-v2/"
 ---
-![loopers pomodoro timer]({{ site.url }}{{ site.baseurl }}/assets/promo_pomodoro.jpg)
+![loopers pomodoro timer](/assets/promo_pomodoro.jpg)
 Link: [App Store](https://apps.apple.com/us/app/loopers-simple-pomodoro-timer/id1255584873?ls=1)
 
 I just published a simple pomodoro timer completely rewritten in SwiftUI and I am here to share my thoughts on it.
